@@ -3,42 +3,48 @@
     "id": 1,
     "name": "Md. Shariar Shadid Shams",
     "image": "https://image.shutterstock.com/image-photo/young-confident-handsome-man-full-260nw-1416442523.jpg",
+    "ratting": "4.9",
     "email": "Eliseo@gardner.biz",
-    "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos ntempora quo necessitatibus ndolor quam autem quasi nreiciendis et nam sapiente accusantium"
+    "body": "I think the Radon kills this laptop. With an RTX 3070, even at its pretty high price, I think this would be a winner. AMD really needs to get their DLSS competitor out there, which will help dramatically to get more performance out of their GPUs."
   },
   {
     "id": 2,
     "name": "Md. Suton Ali",
     "image": "https://images.thestar.com/loeysCGyCAeJE9CV8KwQLBzluEg=/650x650/smart/filters:cb(1564229144931)/https://www.thestar.com/content/dam/thestar/entertainment/movies/2019/07/21/canadian-actor-simu-liu-on-his-groundbreaking-role-as-marvel-superhero-shang-chi/simu_liu_2_.jpg",
+    "ratting": "4.5",
     "email": "Jayne_Kuhic@sydney.com",
-    "body": "est natus enim nihil est dolore omnis voluptatem numquam net omnis occaecati quod ullam at nvoluptatem error expedita pariatur nnihil sint nostrum voluptatem reiciendis et"
+    "body": "I’d call that B-tier since it supports 1 external monitor up to 6K @ 60hz. Legit reason, if you need the physical size. Pixel density of the MBA is better than 1080p or 1440p screens, though."
   },
   {
     "id": 3,
     "name": "Md. Salim Hossain",
-    "image": "https://image.shutterstock.com/image-photo/young-confident-handsome-man-full-260nw-1416442523.jpg",
+    "image": "https://www.themodestman.com/wp-content/uploads/2020/01/Best-asian-hairstyles-2.jpg",
+    "ratting": "4.8",
     "email": "Nikita@garfield.biz",
-    "body": "quia molestiae reprehenderit quasi aspernatur naut expedita occaecati aliquam eveniet laudantium nomnis quibusdam delectus saepe quia accusamus maiores nam est ncum et ducimus et vero voluptates excepturi deleniti ratione"
+    "body": "My baseline recommendation for anyone that wants a laptop is the M1 MacBook Air. At $999 retail (as low as $850 on sale), people really need to justify why they would need to spend more. PC gaming is one good reason; not too many others beyond that."
   },
   {
     "id": 4,
     "name": "Sangram Hossen",
-    "image": "https://image.shutterstock.com/image-photo/young-confident-handsome-man-full-260nw-1416442523.jpg",
+    "ratting": "4.0",
+    "image": "https://www.hamilton.edu/assets/mmlibrary/images/185x/yuphil-angryasianmanblog.jpg",
     "email": "Lew@alysha.tv",
-    "body": "non et atque noccaecati deserunt quas accusantium unde odit nobis qui voluptatem nquia voluptas consequuntur itaque dolor net qui rerum deleniti ut occaecati"
+    "body": "I considered an MSI for my kids but was scared away by reports of QA and warranty-support issues — not terrible, but I really needed reliability since they’d be on it for school every day. Asus has a better rep for quality, from what I’ve seen."
   },
   {
     "id": 5,
     "name": "Md. Papon",
-    "image": "https://image.shutterstock.com/image-photo/young-confident-handsome-man-full-260nw-1416442523.jpg",
+    "image": "https://i.guim.co.uk/img/media/fb039253c263b6eebd4f63eb7b68f1e191e2bbc2/0_134_1971_1182/master/1971.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=756bd3d3bfde7d427803df595380b7fb",
+    "ratting": "4.5",
     "email": "Hayden@althea.biz",
-    "body": "harum non quasi et ratione ntempore iure ex voluptates in ratione nharum architecto fugit inventore cupiditate nvoluptates magni quo et"
+    "body": "That one comes with the 6700S, not the 6800S. The 2020 $1499 model had the RTX2060, which was the best GPU, Ryzem 4900HS and 16GB RAM, without an Animatrix lid. There was a $1299 model with a RTX 1660ti in 2020 for $1299, which I think is more comparable to the $1650 model from BestBuy."
   },
   {
     "id": 6,
     "name": "Khandakar Musaid",
-    "image": "https://image.shutterstock.com/image-photo/young-confident-handsome-man-full-260nw-1416442523.jpg",
+    "ratting": "4.7",
+    "image": "https://www.mckinsey.com/~/media/mckinsey/careers%20redesign/meet%20our%20people/asian%20and%20asian%20american%20consultants%20at%20mckinsey/michael%20park_2594_fc-crop.jpg?mw=767&car=1:1&cpx=Center&cpy=Center",
     "email": "Presley.Mueller@myrl.com",
-    "body": "doloribus at sed quis culpa deserunt consectetur qui praesentium naccusamus fugiat dicta nvoluptatem rerum ut voluptate autem nvoluptatem repellendus aspernatur dolorem in"
+    "body": "I pretty well like the G15 (I could do without the Gamer Style, but key travel! matte screen! ports!) and performance is great. The vendor software (and maybe BIOS/firmware, if that caused the mystery drain?) I only notice when it gets in the way. Microsoft Signature AMD Advantage laptop when?"
   }
 ]
