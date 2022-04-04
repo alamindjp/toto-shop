@@ -9,21 +9,25 @@
     width: 500px;
 }
 
-.reviews-card h2,
-a {
-    margin: 0 auto;
-    text-align: center;
+.reviews-btn {
+    text-decoration: none;
+    background-color: #0a0a23;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    min-height: 30px;
+    min-width: 120px;
 }
 
-.reviews-btn {
-    color: antiquewhite;
-    background-color: #ad5858;
-    text-decoration: none;
-    padding: 5px;
+.reviews-btn:hover {
+    font-weight: 700;
+    color: #0a0a23;
+    background-color: #8884848f;
 }
 
 .reviews-card-btn {
-    display: flex;
+    margin-bottom: 50px;
 }
 
 .content-container h1 {

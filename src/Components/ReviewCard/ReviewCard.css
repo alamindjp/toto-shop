@@ -1,16 +1,20 @@
-.review-card{
+.review-card {
     margin: 5px;
     padding: 10px;
-    border: 1px solid red;
+    border: 1px solid gray;
+    border-radius: 15px;
 }
-.review-card p{
+
+.review-card p {
     margin-top: 5px;
 }
-.review-card span{
+
+.review-card span {
     font-weight: bold;
     display: flex;
     margin-top: 20px;
 }
+
 .card-title img {
     width: 100px;
     height: 100px;
@@ -21,18 +25,21 @@
 .card-title {
     display: flex;
 }
-.name-container small{
+
+.name-container small {
     font-weight: 600;
     display: flex;
 
 }
+
 @media only screen and (max-width: 600px) {
     .reviews-card {
-      display: block;
+        display: block;
     }
-  }
-  @media only screen and (min-width: 600px) and (max-width: 900px) {
-    .reviews-card p{
-       padding: 0 50px;
+}
+
+@media only screen and (min-width: 600px) and (max-width: 900px) {
+    .reviews-card p {
+        padding: 0 50px;
     }
-  }
+}

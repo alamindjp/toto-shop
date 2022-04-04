@@ -10,7 +10,7 @@ const Dashboard = () => {
     return (
         <div className='container'>
             <div className='rechart'>
-                <LineChart width={550} height={250} data={data}
+                <LineChart width={450} height={250} data={data}
                     margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
@@ -23,7 +23,7 @@ const Dashboard = () => {
                 </LineChart>
             </div>
             <div className='rechart'>
-                <PieChart width={550} height={250}>
+                <PieChart width={450} height={250}>
                     <Pie data={data} dataKey="sell" nameKey="month" cx="50%" cy="50%" outerRadius={50} fill="#8884d8" />
                     <Pie data={data} dataKey="revenue" nameKey="name" cx="50%" cy="50%" innerRadius={55} outerRadius={65} fill="#82ca9d" />
                     <Tooltip />
@@ -31,7 +31,7 @@ const Dashboard = () => {
                 </PieChart>
             </div>
             <div className='rechart'>
-                <BarChart width={550} height={250} data={data}>
+                <BarChart width={450} height={250} data={data}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
                     <YAxis dataKey="investment" />
@@ -43,7 +43,7 @@ const Dashboard = () => {
                 </BarChart>
             </div>
             <div className='rechart'>
-                <ComposedChart width={550} height={250} data={data}>
+                <ComposedChart width={450} height={250} data={data}>
                     <XAxis dataKey="month" />
                     <YAxis dataKey="investment" />
                     <Tooltip />

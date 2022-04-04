@@ -1,43 +1,52 @@
-.navbar{
+.navbar {
     padding: 0 100px;
     background-color: rgba(15, 15, 104, 0.534);
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.logo{
+
+.logo {
     padding: 10px;
 }
-.logo h3, h4{
+
+.logo h3,
+h4 {
     margin: 0;
     color: aliceblue;
 }
-.custom-link{
+
+.custom-link {
     display: flex;
 }
-.navbar a{
+
+.navbar a {
     color: aliceblue;
     padding: 5px 10px;
     text-decoration: none;
     margin-left: 10px;
 }
+
 @media only screen and (max-width: 680px) {
     .navbar {
         display: grid;
-        grid-template-columns: repeat(2,1fr);
+        grid-template-columns: repeat(2, 1fr);
         padding: 20px;
     }
-  }
- 
-  @media only screen and (min-width: 300px) and (max-width: 680px) {
+}
+
+@media only screen and (min-width: 300px) and (max-width: 680px) {
     .custom-link {
         display: block;
     }
-    .logo h3, h4{
+
+    .logo h3,
+    h4 {
         font-size: 50px;
     }
+
     .custom-link a {
         display: block;
         margin: 20px 0;
     }
-  }
+}

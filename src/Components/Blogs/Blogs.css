@@ -1,10 +1,12 @@
-.blogs-container{
+.blogs-container {
     margin: 60px;
     text-align: start;
 }
-.span{
+
+.span {
     font-weight: bold;
 }
-.span-600{
+
+.span-600 {
     font-weight: 600;
 }

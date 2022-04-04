@@ -7,7 +7,7 @@ import './Home.css'
 const Home = () => {
     const [reviews, setReviews] = useReviews()
     return (
-        <div>
+        <div >
             <div className='home-container'>
                 <div className='content-container'>
                     <h1>YOUR NEXT LAPTOP</h1>
