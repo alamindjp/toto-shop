@@ -1,10 +1,10 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const NotFound = () => {
     return (
         <div>
-            <h1>DATA NOT FOUND</h1>
-            <h2>404 not found</h2>
+            <Link to='/'><img src="404-error-page-templates.webp" alt="" /></Link>
         </div>
     );
 };
