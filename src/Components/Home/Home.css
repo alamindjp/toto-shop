@@ -1,0 +1,28 @@
+.home-container {
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.image-container img {
+    margin-top: 80px;
+    width: 500px;
+}
+
+.reviews-btn {
+    color: antiquewhite;
+    background-color: #ad5858;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.content-container h1{
+    margin: 10px;
+    font-size: 36px;
+}
+.content-container h1{
+    color: #861f70cc;
+}
+.content-container h1 span{
+    color: #d437e9d5;
+}
