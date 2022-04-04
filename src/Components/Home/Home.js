@@ -1,11 +1,11 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import useReviews from '../../Hooks/useReviews';
 import ReviewCard from '../ReviewCard/ReviewCard';
 import './Home.css'
 
 const Home = () => {
-    const [reviews, setReviews]=useReviews()
+    const [reviews, setReviews] = useReviews()
     return (
         <div>
             <div className='home-container'>
@@ -16,14 +16,19 @@ const Home = () => {
                 </div>
                 <div className='image-container'><img src="photo.png" alt="" /></div>
             </div>
-            <div>
-                <h2>Reviews</h2>
-                {
-                    reviews.slice(0,3).map(review=><ReviewCard 
-                        key={id}
-                    ></ReviewCard>)
-                }
-                <Link to="/reviews" className='reviews-btn'>See all reviews</Link>
+            <div className='reviews-card-component'>
+                <h2>Reviews {reviews.length}</h2>
+                <div className='card-container'>
+                    {
+                        reviews.slice(0, 3).map(review => <ReviewCard
+                            key={review.id}
+                            reviews={review}
+                        ></ReviewCard>)
+                    }
+                </div>
+                <div className='reviews-card-btn'>
+                    <Link to="/reviews" className='reviews-btn'>See all reviews</Link>
+                </div>
             </div>
         </div>
     );
