@@ -1,7 +1,12 @@
 # PRODUCT ANALYCIS | TOTO SHOP
 
-# [Live Site Link](https://github.com/facebook/create-react-app)
+# [Live Site Link](https://meek-dasik-00de9a.netlify.app)
 
 ## Project working
 
-* like 
+* Create customLinks.
+* Create components.
+* Create the Routing page.
+* Create  four Recharts.
+* Answer to the  three question.
+* Overall, create a Dynamic, Responsive Website.

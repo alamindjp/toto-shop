@@ -17,7 +17,7 @@ const Home = () => {
                 <div className='image-container'><img src="photo.png" alt="" /></div>
             </div>
             <div className='reviews-card-component'>
-                <h2>Customar Reviews</h2>
+                <h2>Customer Reviews</h2>
                 <div className='card-container'>
                     {
                         reviews.slice(0, 3).map(review => <ReviewCard
